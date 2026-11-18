@@ -1,3 +1,7 @@
+#Reflection
+#Python can contain and expand on information extremely well. Excel would be overwhelmed by the information that python can handle.
+# Apopend mode is traceable seeing the changes that have been made. It is easy to traceback.
+
 #Exercise 2/3
 
 import csv

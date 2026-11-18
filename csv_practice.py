@@ -1,0 +1,8 @@
+#Exercise 2/3
+import csv
+with open("data/sales.csv", "r") as f:
+    reader = csv.reader(f)
+    header = next(reader)
+    print(header)
+    for row in reader:
+        print(row)
